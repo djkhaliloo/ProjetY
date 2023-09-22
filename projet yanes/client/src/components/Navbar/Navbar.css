@@ -1,0 +1,28 @@
+.navbars {
+  height: 15px;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 231px;
+  }
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 500px;
+  
+  }
+
+  .nav-item {
+    line-height: 40px;
+    margin-right: 1rem;
+  }
+
+  .navbars img{
+    width :100px;
+    margin-right: 100px;
+    display: block;
+	max-width: 100%;
+  }

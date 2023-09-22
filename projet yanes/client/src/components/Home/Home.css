@@ -1,0 +1,13 @@
+.form{
+  
+    min-height: 80vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.barr{
+	margin-top: 55px;
+
+}
